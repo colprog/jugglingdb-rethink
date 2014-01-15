@@ -1,6 +1,6 @@
 ## JugglingDB-RethinkDB
 
-RethinkDB adapter for jugglingdb.
+RethinkDB adapter for [jugglingdb](https://github.com/1602/jugglingdb).
 
 ## Usage
 
