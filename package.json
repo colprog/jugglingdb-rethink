@@ -1,6 +1,6 @@
 {
   "name": "jugglingdb-rethink",
-  "version": "1.1.5",
+  "version": "1.1.6",
   "description": "RethinkDB adapter for jugglingdb",
   "main": "index.js",
   "scripts": {
@@ -16,7 +16,9 @@
     "jugglingdb": "https://github.com/1602/jugglingdb/archive/master.tar.gz",
     "should": "~1.2.2",
     "mocha": "~1.8.2",
-    "semicov": "~0.1.1"
+    "semicov": "~0.1.1",
+    "grunt": "~0.4.2",
+    "grunt-release": "~0.6.0"
   },
   "repository": "http://github.com/fuwaneko/jugglingdb-rethink",
   "author": "Dmitry Gorbunov <atskiisotona@gmail.com>",
